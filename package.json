@@ -2,7 +2,6 @@
   "name": "vue3-firebase",
   "version": "0.1.0",
   "private": true,
-  "author": "Justin Brooks <justin@datatorch.io>",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
